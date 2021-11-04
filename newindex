@@ -9,13 +9,13 @@
 </head>
 
 <body>
-<h1>My First Form</h1>
-<form action="welcome.php" method="GET">
-<input type="text"> 
-<input type="email"> 
-<input type="button">
-<input type="submit">
-<input type="search">
+ <h1>My First Form</h1>
+ <form action="welcome.php" method="GET">
+ <input type="text"> 
+ <input type="email"> 
+ <input type="button">
+ <input type="submit">
+ <input type="search">
 
 
 </form>
